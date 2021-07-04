@@ -1,0 +1,22 @@
+https://www.kaggle.com/victorambonati/unsupervised-anomaly-detection
+https://www.kaggle.com/matheusfacure/semi-supervised-anomaly-detection-survey
+https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/ch04.html
+https://medium.com/learningdatascience/anomaly-detection-techniques-in-python-50f650c75aaf
+https://pypi.org/project/anomatools/
+https://github.com/yzhao062/pyod
+https://www.geeksforgeeks.org/machine-learning-for-anomaly-detection/
+https://github.com/susanli2016/Machine-Learning-with-Python/blob/master/Anomaly_Detection_for_Dummies.ipynb
+https://towardsdatascience.com/anomaly-detection-for-dummies-15f148e559c1
+unsupervised outlier detection python
+https://github.com/yzhao062/anomaly-detection-resources
+https://github.com/yzhao062/XGBOD
+supervised anomaly detection python
+https://essay.utwente.nl/79813/1/Lenderink_MA_EEMCS.pdf
+anamoli detection classfication metrikleri : https://www.google.com/search?q=anomaly+detection+classification&newwindow=1&sxsrf=ALeKk03WndPoVFHAMYYINTKpDy5svmpxgQ:1603306482833&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiZ4_-KrsbsAhVOVhoKHenQDO0Q_AUoAXoECAUQAw&biw=1366&bih=625#imgrc=OtQodNBtwiYB6M
+https://paperswithcode.com/task/unsupervised-anomaly-detection
+Deep Learning for Anomaly Detection : https://ff12.fastforwardlabs.com/
+
+
+Kutuphane : pandasgui,pandasprofile,sweetviz,bamboolib,Geospatial Data Abstraction Library (GDAL)
+Rapid Miner 7.0 ile Outlier Yaklama ve Filitreleme (Eğitim Serisi 2)  : https://www.youtube.com/watch?v=kCIZ7rjo9KM
+

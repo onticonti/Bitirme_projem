@@ -1,0 +1,23 @@
+Ücretsiz makale için ; https://sci-hub.st/
+Algoritma kıyaslama ; https://paperswithcode.com/task/unsupervised-anomaly-detection
+Blog                ; medium,towarddatascience
+The Top 58 Anomaly Detection Open Source Projects  ; https://www.kaggle.com/general/128356
+Görselleştirme ve dashboard  ; POWER BI
+Anamoly detection ile ilgili yapılan çalışmalar ve aratılan kelimeler ve makale  ; https://www.wizdom.ai/topic/anomaly_detection/8190902
+Makelelerin kodunu bulma  ; Find Code For Research Papers - CatalyzeX (chrome uzantısı)  (https://github.com/fastforwardlabs/deepad?utm_source=catalyzex.com)
+
+CHROME UZANTILAR
+
+DECS - Code Snippets Manager
+QuickCode - Free Online Programming Courses
+Save Code - Çalışan kod parçacıklarını kaydedin 
+Devo  - GitHub Trending, 
+Science Research Assistant -  bilimsel bilgileri olabildiğince çabuk arayın
+Scholarcy | -  Research Paper Summarizer
+Data Scraper - Easy Web Scraping
+Scholar with Code
+ResearchCode code finder
+Sourcegraph
+
+
+
